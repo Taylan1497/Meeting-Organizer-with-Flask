@@ -1,18 +1,13 @@
 # Meeting Organizer Project
 
-This project is handled with python flask and html, focusing on server-client phenomena. 
+A web application for managing meetings using Python and Flask and HTML templates.
 
-Project structere is given below:
+### Project Structure
 
-Meeting Organizer with Flask/
-
+my_meetings_app/
 ├── app.py
-
 ├── templates/
-
-   ├── index.html
-   
-   ├── add_meeting.html
-   
-   └── edit_meeting.html
+│ ├── index.html
+│ ├── add_meeting.html
+│ └── edit_meeting.html
 
