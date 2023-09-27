@@ -5,6 +5,7 @@ This project is handled with python flask and html, focusing on server-client ph
 Project structere is given below:
 
 Meeting Organizer with Flask/
+
 ├── app.py
 
 ├── templates/
