@@ -6,7 +6,7 @@ Project structere is given below:
 Meeting Organizer with Flask/
 ├── app.py
 ├── templates/
-│   ├── index.html
-│   ├── add_meeting.html
-│   └── edit_meeting.html
+   ├── index.html
+   ├── add_meeting.html
+   └── edit_meeting.html
 
