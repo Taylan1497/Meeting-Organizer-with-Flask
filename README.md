@@ -2,7 +2,7 @@
 
 A web application for managing meetings using Python and Flask and HTML templates.
 
-### Project Structure
+## Project Structure
 
 my_meetings_app/
 ├── app.py
