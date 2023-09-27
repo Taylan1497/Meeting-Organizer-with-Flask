@@ -11,7 +11,7 @@ A web application for managing meetings using Python and Flask and HTML template
         ├── index.html
         ├── add_meeting.html
         ├── edit_meeting.html
-        ├── delete_meeting.html
+        
 ```
 
 ## Usage
