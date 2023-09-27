@@ -4,10 +4,12 @@ A web application for managing meetings using Python and Flask and HTML template
 
 ## Project Structure
 
-my_meetings_app/
-├── app.py
-├── templates/
-│ ├── index.html
-│ ├── add_meeting.html
-│ └── edit_meeting.html
+./
+├── Meeting Organizer with Flask/
+│   ├── App.py
+│   ├── ReadMe.md
+│   ├── Templates
+├── eval.py
+├── main.py
+└── model.py
 
