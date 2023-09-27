@@ -3,7 +3,7 @@
 A web application for managing meetings using Python and Flask and HTML templates.
 
 ## Project Structure
-'''
+```
 ./
 ├── Meeting Organizer with Flask/
 │   ├── App.py
@@ -12,5 +12,5 @@ A web application for managing meetings using Python and Flask and HTML template
 ├── eval.py
 ├── main.py
 └── model.py
-'''
+```
 
