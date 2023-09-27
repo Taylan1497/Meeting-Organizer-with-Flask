@@ -21,10 +21,10 @@ A web application for managing meetings using Python and Flask and HTML template
    -pip install Flask, ..,
 3. Run the application:
    
-   *Go working directory you cloned(Meeting Organizer with Flask) on terminal
+*Go working directory you cloned(Meeting Organizer with Flask) on terminal
    
-   *Run python app.py
+*Run python app.py
    
-   *You will see application link on the terminal, go to link and access the app in your web browser 
+*You will see application link on the terminal, go to link and access the app in your web browser 
    
 
